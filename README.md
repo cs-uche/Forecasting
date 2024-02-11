@@ -6,7 +6,7 @@ Corporación Favorita(subsequently referred to as Favorita Corp.) is an Ecuadori
 
 Favorita Corp. faces challenges in forecasting product demand accurately for its grocery stores. Current subjective forecasting methods lack data-backed insights and are not easily automated. As the company expands with new locations and products, and amidst ever-changing seasonal tastes and marketing strategies, the forecasting problem becomes more complex.
 
-![Favorita Corp. Logo](./imgs/image.png)
+![Favorita Corp. Logo](./imgs/Favorita_Logo.png)
 
 
 ## Time Series Data
