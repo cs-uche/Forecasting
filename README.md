@@ -6,7 +6,7 @@ Corporación Favorita(subsequently referred to as Favorita Corp.) is an Ecuadori
 
 Favorita Corp. faces challenges in forecasting product demand accurately for its grocery stores. Current subjective forecasting methods lack data-backed insights and are not easily automated. As the company expands with new locations and products, and amidst ever-changing seasonal tastes and marketing strategies, the forecasting problem becomes more complex.
 
-![Favorita Corp. Logo](image.png)
+![Favorita Corp. Logo](./imgs/image.png)
 
 
 ## Time Series Data
@@ -31,3 +31,6 @@ Accurate forecasting can significantly benefit Favorita Corp. and the retail ind
 * By reducing food waste related to overstocking.
 * By ensuring product availability, it can improve customer satisfaction.
 * It can optimize inventory management, leading to cost savings.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
